@@ -8,8 +8,13 @@
   <WorkspaceName>WorkSpace</WorkspaceName>
 
   <project>
-    <PathAndName>.\daughter_r0.uvprojx</PathAndName>
+    <PathAndName>.\Daughter-Rev0\Main-Program-Flow\Daughter-Rev0.uvprojx</PathAndName>
     <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\Daughter-Rev0\ADC-Test\ADC-Test.uvprojx</PathAndName>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
