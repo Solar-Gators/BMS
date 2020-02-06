@@ -387,6 +387,16 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
+            <File>
+              <FileName>ADC_Driver.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\ADC_Driver.c</FilePath>
+            </File>
+            <File>
+              <FileName>ADC_Driver.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\ADC_Driver.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

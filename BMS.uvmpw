@@ -9,12 +9,12 @@
 
   <project>
     <PathAndName>.\Daughter-Rev0\Main-Program-Flow\Daughter-Rev0.uvprojx</PathAndName>
-    <NodeIsActive>1</NodeIsActive>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
   <project>
     <PathAndName>.\Daughter-Rev0\ADC-Test\ADC-Test.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
